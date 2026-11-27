@@ -1,0 +1,36 @@
+body{
+    font-family: sans-serif;
+    margin: auto;
+    max-width: 700px;
+    padding:0;
+    background-color: rgb(36, 36, 36);
+    color: rgb(235, 235, 222);
+}
+header {
+    background-color: white;
+    color: black;
+    padding: 5px;}
+main {
+    background-color: black;
+    color: white;
+    padding: 10px;
+}
+footer {
+    background-color: white;
+    color: black;
+    padding: 5px;}
+div {
+    background-color: white;
+    color: black;
+    padding: 10px;
+    margin: 5px;
+}
+a{background-color: rgb(255, 255, 255);
+ color:red; 
+ width: 50%; 
+ margin:auto;
+ padding: 20px;
+ border-radius: 10px;
+ font-size: 20px;
+ text-align: center;
+}
